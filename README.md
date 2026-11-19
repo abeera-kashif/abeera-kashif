@@ -1,5 +1,5 @@
 
-# Hi, I'm Abeera Kashif! 👋
+# Hi, I'm Abeera Kashif! 
 
 I am currently learning Artificial Intelligence and building my foundation step by step.
 
